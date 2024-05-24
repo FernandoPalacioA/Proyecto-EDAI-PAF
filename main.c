@@ -1,7 +1,7 @@
 /*
     gcc -c store.c -o store.o
     gcc -c main.c -o main.o
-    gcc store.o main.o -o programa
+    gcc store.o main.o -o ./programa
 */
 
 #include "store.h"
